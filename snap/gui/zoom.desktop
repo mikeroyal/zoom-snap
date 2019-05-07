@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Zoom
+GenericName=Zoom chat 
+Comment=Multi-platform chat/meeting client.
+Exec=zoom -p
+Icon=${SNAP}/meta/gui/zoom.png
+Terminal=false
+Type=Application
+Categories=Communication;Productivity;
+Name[en_US]=zoom.desktop

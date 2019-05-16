@@ -12,9 +12,9 @@
 </p>
 -->
 
-<!-- Uncomment and modify this when you have a screenshot
-![my-snap-name](screenshot.png?raw=true "my-snap-name")
--->
+
+![zoom](https://user-images.githubusercontent.com/45159366/57836482-ab47d000-7775-11e9-9473-33d4525009c7.png?raw=true "my-snap-name")
+
 
 <p align="center">Published for <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/tux.png" align="top" width="24" /> with 💝 by Snapcrafters</p>
 

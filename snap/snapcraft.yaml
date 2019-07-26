@@ -2,9 +2,11 @@
 name: zoom
 version: latest
 summary: video chat
-description: |
-  
+description: |Zoom is a remote video conferencing application.
+
+grade: stable 
 confinement: classic
+base: core18
 
 architectures:
   - build-on: amd64
